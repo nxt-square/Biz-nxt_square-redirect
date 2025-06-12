@@ -4,6 +4,16 @@
       "source": "/wifi-rent",
       "destination": "https://shop.nxtsq.com/discount/NXTBIZCARD?redirect=/products/nxt-wifi",
       "permanent": true
+    },
+    {
+      "source": "/esim",
+      "destination": "https://shop.nxtsq.com/discount/NXTBIZCARD?redirect=/collections/esim",
+      "permanent": true
+    },
+    {
+      "source": "/biz",
+      "destination": "https://cdn.shopify.com/s/files/1/0692/9334/2919/files/f3261f412762fd1d9f67663aab8317b0.pdf?v=1749082653",
+      "permanent": true
     }
   ]
 }
