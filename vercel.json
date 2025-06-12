@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/wifi-rent",
+      "destination": "https://shop.nxtsq.com/discount/NXTBIZCARD?redirect=/products/nxt-wifi",
+      "permanent": true
+    }
+  ]
+}
